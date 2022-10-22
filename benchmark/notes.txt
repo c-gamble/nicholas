@@ -1,0 +1,23 @@
+- today, my goal is to get an idea of where you are
+    - we'll start with a pretty simple skills assessment i created 
+    - if that's easy for you, there are some good websites with more challenging problems that we can work on
+    - i also want to brainstorm project ideas with you, because i think the best way to learn is to apply your skills. if you like the 
+    concept/math problems, we can definitely work on those as well and you can do them on your own time and check back with me at each sessions.
+
+- ask what his goals and interests are
+
+- propose project ideas
+    -> continue working on game?
+    -> start new game?
+    -> build tic tac toe game with AI opponent?
+    -> explore AI?
+    -> pyscript website?
+
+
+- ask if he's interested in learning any other languages
+    -> C++ or Rust would be for more of the math/concept-heavy problems
+    -> JS would be for creating websites
+    -> Swift would be for creating mobile apps
+
+
+- if he's doing well, transition to project euler or hacker rank
